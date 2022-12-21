@@ -320,5 +320,6 @@ $
 
 ## Authors ##
 
-👤 **Yonas Leykun**
+👤 **Solomon Ordu**
+👤 **Lawal Ameh**
 
